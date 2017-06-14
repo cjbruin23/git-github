@@ -1,2 +1,2 @@
 # git-github
-Learning how to use Git and GitHub repository
+Learning how to use Git and GitHub repository (2)
